@@ -1,0 +1,27 @@
+.cont {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .text {
+    margin: 0;
+    font-size: 14px;
+    color: black;
+  }
+  
+  .btn {
+    padding: 6px 12px;
+    background-color: #ff4d4f;
+    color: black;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: 600;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn:hover {
+    background-color: #d9363e;
+  }
+  
